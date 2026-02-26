@@ -127,4 +127,8 @@ https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-F
 
 ---
 
-*© Stronghold®. All rights reserved.*
+## Legal
+
+"Stronghold" and the Stronghold logo are registered trademarks of Stronghold. The brand assets in this repository are shared for reference and authorized integration use only. Unauthorized use — including impersonation, misrepresentation, or false affiliation — is prohibited and subject to enforcement under applicable trademark law.
+
+See **[LICENSE.md](LICENSE.md)** for full usage terms.
