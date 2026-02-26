@@ -1,0 +1,67 @@
+---
+description: Stronghold® brand guidelines — colors, typography, voice, logo usage, and document formatting
+alwaysApply: true
+---
+
+# Stronghold® Brand Guidelines
+
+All outputs must be brand-compliant. Always use the ® symbol with Stronghold.
+
+## Colors
+
+- **Main Blue:** #0B2993 (primary headlines, CTAs, key brand elements)
+- **Contrast Blue:** #0075FF (interactive elements, emphasis)
+- **Core Black:** #060810 (body text, dark backgrounds)
+- **Green:** #1CB06C | **Yellow:** #F6DE3F | **Red:** #DC2307
+- **Royal Blue:** #3C70B7 | **Sky Blue:** #42A2DA
+- Never use colors outside the approved palette
+
+## Typography
+
+- **Primary font:** Proxima Nova (fallback: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif)
+- H1–H4: Bold | H5–H6: Semibold | Body: Regular
+- Documents fallback: Helvetica (never Calibri)
+
+## Voice & Tone
+
+- Professional yet approachable, confident but not arrogant, clear and direct
+- Use active voice, concise sentences, lead with benefits
+- Use: strong, secure, reliable, trusted, innovative, modern, efficient
+- Avoid: slang, hyperbole ("best ever," "revolutionary"), competitor references
+
+## Logo Usage
+
+**Logo repo:** https://github.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL
+
+Embed the Blue logo in markdown:
+```
+![Stronghold®](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Blue/Stronghold%20Logo%20Type%20Blue.svg)
+```
+
+- **Light backgrounds:** Blue (preferred) or Black logo
+- **Dark backgrounds:** White logo
+- **Partner materials:** "Powered by Stronghold" variant
+- Include logo in document headers or footers
+- Never distort, recolor, or add effects to logos
+
+## CSS Variables
+
+```css
+:root {
+  --color-main-blue: #0B2993;
+  --color-contrast-blue: #0075FF;
+  --color-core-black: #060810;
+  --color-green: #1CB06C;
+  --color-yellow: #F6DE3F;
+  --color-red: #DC2307;
+  --color-royal-blue: #3C70B7;
+  --color-sky-blue: #42A2DA;
+  --font-primary: 'Proxima Nova', system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+```
+
+## Full Reference
+
+For complete guidelines (gradients, imagery, document formatting, social media specs), see:
+`Stronghold_AI_Brand_Guidelines_Prompt.md` in this repo, or the hosted version at:
+https://github.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/blob/main/Stronghold_AI_Brand_Guidelines_Prompt.md
