@@ -97,14 +97,14 @@ https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-F
 
 | Color | HEX | Preview |
 |-------|-----|---------|
-| Main Blue | `#0B2993` | ![#0B2993](https://via.placeholder.com/16/0B2993/0B2993.png) |
-| Contrast Blue | `#0075FF` | ![#0075FF](https://via.placeholder.com/16/0075FF/0075FF.png) |
-| Core Black | `#060810` | ![#060810](https://via.placeholder.com/16/060810/060810.png) |
-| Green | `#1CB06C` | ![#1CB06C](https://via.placeholder.com/16/1CB06C/1CB06C.png) |
-| Yellow | `#F6DE3F` | ![#F6DE3F](https://via.placeholder.com/16/F6DE3F/F6DE3F.png) |
-| Red | `#DC2307` | ![#DC2307](https://via.placeholder.com/16/DC2307/DC2307.png) |
-| Royal Blue | `#3C70B7` | ![#3C70B7](https://via.placeholder.com/16/3C70B7/3C70B7.png) |
-| Sky Blue | `#42A2DA` | ![#42A2DA](https://via.placeholder.com/16/42A2DA/42A2DA.png) |
+| Main Blue | `#0B2993` | ![](https://img.shields.io/badge/-%20%20%20%20%20-0B2993?style=flat-square) |
+| Contrast Blue | `#0075FF` | ![](https://img.shields.io/badge/-%20%20%20%20%20-0075FF?style=flat-square) |
+| Core Black | `#060810` | ![](https://img.shields.io/badge/-%20%20%20%20%20-060810?style=flat-square) |
+| Green | `#1CB06C` | ![](https://img.shields.io/badge/-%20%20%20%20%20-1CB06C?style=flat-square) |
+| Yellow | `#F6DE3F` | ![](https://img.shields.io/badge/-%20%20%20%20%20-F6DE3F?style=flat-square) |
+| Red | `#DC2307` | ![](https://img.shields.io/badge/-%20%20%20%20%20-DC2307?style=flat-square) |
+| Royal Blue | `#3C70B7` | ![](https://img.shields.io/badge/-%20%20%20%20%20-3C70B7?style=flat-square) |
+| Sky Blue | `#42A2DA` | ![](https://img.shields.io/badge/-%20%20%20%20%20-42A2DA?style=flat-square) |
 
 ---
 
