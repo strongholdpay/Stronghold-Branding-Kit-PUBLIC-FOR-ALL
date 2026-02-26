@@ -1,0 +1,16 @@
+.DS_Store
+
+# Internal/confidential documents
+*Internal*
+*YouTube_Guidelines*
+
+# Non-embeddable archives (available on Google Drive)
+*.zip
+
+# Google Workspace links
+*.gslides
+*.gdoc
+*.gsheet
+
+# Adobe source files (available on Google Drive)
+*.ai
