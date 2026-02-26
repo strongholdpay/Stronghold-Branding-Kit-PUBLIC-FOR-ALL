@@ -1,6 +1,6 @@
 # Stronghold® AI Brand Guidelines Prompt
 
-![Stronghold®](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Blue/Stronghold%20Logo%20Type%20Blue.svg)
+![Stronghold®](Stronghold%20Logos%20-%20March%202022/Blue/Stronghold%20Logo%20Type%20Blue.svg)
 
 Use this prompt when working with any AI tool (ChatGPT, Claude, Copilot, etc.) to ensure brand-consistent outputs for documents, presentations, websites, or any other creative materials.
 
@@ -286,43 +286,91 @@ Apply Stronghold® brand guidelines:
 
 All logo files are hosted at: [github.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL](https://github.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL)
 
-### Primary Wordmark (Blue)
+---
 
-![Stronghold® Blue Logo](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Blue/Stronghold%20Logo%20Type%20Blue.svg)
+### Logo Marks (Icon)
 
-**URL:** `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Blue/Stronghold%20Logo%20Type%20Blue.svg`
+**Blue Mark (on White BG)**
+
+![Blue Mark - White BG](Stronghold%20Logos%20-%20March%202022/Blue/Blue%20Mark%20-%20White%20BG.png)
+
+**Blue Mark (on Light Grey BG)**
+
+![Blue Mark - Light Grey BG](Stronghold%20Logos%20-%20March%202022/Blue/Blue%20Mark%20-%20Light%20Grey%20BG.png)
+
+**Blue Logo Mark**
+
+![Stronghold Logo Mark Blue](Stronghold%20Logos%20-%20March%202022/Blue/Stronghold%20Logo%20Mark%20Blue.png)
+
+**White Logo Mark**
+
+![Stronghold Logo Mark White](Stronghold%20Logos%20-%20March%202022/White/Stronghold%20Logo%20Mark%20White_1%402x.png)
+
+**White Mark on Solid Backgrounds**
+
+![White Mark - Solid #0B2993 BG](Stronghold%20Logos%20-%20March%202022/White/White%20Mark%20-%20Solid%20%230B2993%20BG.png) ![White Mark - Solid #060810 BG](Stronghold%20Logos%20-%20March%202022/White/White%20Mark%20-%20Solid%20%23060810%20BG.png)
+
+**White Mark on Gradient Backgrounds**
+
+![White Mark - Linear #0B2993 → #0075FF](Stronghold%20Logos%20-%20March%202022/White/White%20Mark%20-%20Linear%20%230B2993_%200075FF%20BG.png) ![White Mark - Linear #0B2993 → #060810](Stronghold%20Logos%20-%20March%202022/White/White%20Mark%20-%20Linear%20%230B2993_%20060810%20BG.png)
+
+**Favicon**
+
+![Stronghold Favicon](Stronghold%20Logos%20-%20March%202022/Favicons/Stronghold%20Favicon.png)
+
+---
+
+### Logo Type (Wordmark)
+
+**Blue Wordmark (Primary)**
+
+![Stronghold Logo Type Blue](Stronghold%20Logos%20-%20March%202022/Blue/Stronghold%20Logo%20Type%20Blue.svg)
+
 **Use on:** Light/white backgrounds | **Color:** #0B2993
 
-### Primary Wordmark (Black)
+**Black Wordmark**
 
-![Stronghold® Black Logo](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Black/stronghold-logo-type%20black.svg)
+![Stronghold Logo Type Black](Stronghold%20Logos%20-%20March%202022/Black/stronghold-logo-type%20black.svg)
 
-**URL:** `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Black/stronghold-logo-type%20black.svg`
 **Use on:** Light/white backgrounds | **Color:** #060810
 
-### Primary Wordmark (White)
+**White Wordmark**
 
-**URL:** `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/White/Stronghold%20Logo%20Type%20White_1.svg`
 **Use on:** Dark backgrounds | **Color:** #FFFFFF
-*(Preview not visible on white background)*
+*(Preview not visible on white background — file: `Stronghold Logos - March 2022/White/Stronghold Logo Type White_1.svg`)*
 
-### Powered by Stronghold® (Black)
+---
 
-![Powered by Stronghold® Black](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Powered%20by%20Stronghold%20Black%20logo.svg)
+### Powered by Stronghold®
 
-**URL:** `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Powered%20by%20Stronghold%20Black%20logo.svg`
-**Use on:** Partner/co-branded materials on light backgrounds
+**Powered by (Black)**
 
-### Powered by Stronghold® (Blue)
+![Powered by Stronghold Black](Stronghold%20Logos%20-%20March%202022/Powered%20by%20Stronghold%20Black%20logo.svg)
 
-![Powered by Stronghold® Blue](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Powered%20by%20Stronghold%20Blue%20logo.svg)
+**Powered by (Blue)**
 
-**URL:** `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Powered%20by%20Stronghold%20Blue%20logo.svg`
-**Use on:** Partner/co-branded materials on light backgrounds
+![Powered by Stronghold Blue](Stronghold%20Logos%20-%20March%202022/Powered%20by%20Stronghold%20Blue%20logo.svg)
+
+**Use on:** Partner/co-branded materials
+
+---
 
 ### Embedding Logos Anywhere
 
-These URLs work from any markdown file, HTML page, email, or document -- no local files needed.
+Use these hosted URLs in any external markdown file, HTML page, email, or document.
+
+**Base URL:** `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/`
+
+| Asset | URL |
+|-------|-----|
+| Blue Wordmark (SVG) | `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Blue/Stronghold%20Logo%20Type%20Blue.svg` |
+| Blue Logo Mark (PNG) | `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Blue/Stronghold%20Logo%20Mark%20Blue.png` |
+| Black Wordmark (SVG) | `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Black/stronghold-logo-type%20black.svg` |
+| White Wordmark (SVG) | `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/White/Stronghold%20Logo%20Type%20White_1.svg` |
+| White Logo Mark (PNG) | `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/White/Stronghold%20Logo%20Mark%20White_1%402x.png` |
+| Favicon (PNG) | `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Favicons/Stronghold%20Favicon.png` |
+| Powered by (Black SVG) | `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Powered%20by%20Stronghold%20Black%20logo.svg` |
+| Powered by (Blue SVG) | `https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold%20Logos%20-%20March%202022/Powered%20by%20Stronghold%20Blue%20logo.svg` |
 
 **Markdown** (copy-paste into any .md file):
 
