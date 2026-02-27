@@ -63,10 +63,10 @@ Combined lockups featuring the Stronghold® logomark paired with the wordmark. E
 
 | Preview | Variant | SVG | PNG |
 |---------|---------|-----|-----|
-| ![](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/Blue-Black/SVG/blue-logomark_black-type.svg) | Blue Mark + Black Type | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/Blue-Black/SVG/blue-logomark_black-type.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/Blue-Black/PNG/blue-logomark_black-type.png) |
-| ![](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/Blue-Blue/SVG/blue-logomark_blue-type.svg) | Blue Mark + Blue Type | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/Blue-Blue/SVG/blue-logomark_blue-type.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/Blue-Blue/PNG/blue-logomark_blue-type.png) |
-| | Blue Mark + White Type | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/Blue-White/SVG/blue-logomark_white-type.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/Blue-White/PNG/blue-logomark_white-type.png) |
-| | White Mark + White Type | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/White-White/SVG/white-logomark_white-type.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/White-White/PNG/white-logomark_white-type.png) |
+| ![](Stronghold-Full-Logo-Set-2025/Logo%20Combo/Blue-Black/SVG/blue-logomark_black-type.svg) | Blue Mark + Black Type | [SVG](Stronghold-Full-Logo-Set-2025/Logo%20Combo/Blue-Black/SVG/blue-logomark_black-type.svg) | [PNG](Stronghold-Full-Logo-Set-2025/Logo%20Combo/Blue-Black/PNG/blue-logomark_black-type.png) |
+| ![](Stronghold-Full-Logo-Set-2025/Logo%20Combo/Blue-Blue/SVG/blue-logomark_blue-type.svg) | Blue Mark + Blue Type | [SVG](Stronghold-Full-Logo-Set-2025/Logo%20Combo/Blue-Blue/SVG/blue-logomark_blue-type.svg) | [PNG](Stronghold-Full-Logo-Set-2025/Logo%20Combo/Blue-Blue/PNG/blue-logomark_blue-type.png) |
+| | Blue Mark + White Type | [SVG](Stronghold-Full-Logo-Set-2025/Logo%20Combo/Blue-White/SVG/blue-logomark_white-type.svg) | [PNG](Stronghold-Full-Logo-Set-2025/Logo%20Combo/Blue-White/PNG/blue-logomark_white-type.png) |
+| | White Mark + White Type | [SVG](Stronghold-Full-Logo-Set-2025/Logo%20Combo/White-White/SVG/white-logomark_white-type.svg) | [PNG](Stronghold-Full-Logo-Set-2025/Logo%20Combo/White-White/PNG/white-logomark_white-type.png) |
 
 > Padded variants (`_with-padding`) are also available in each folder for layouts that need built-in clear space.
 
@@ -74,29 +74,29 @@ Combined lockups featuring the Stronghold® logomark paired with the wordmark. E
 
 | Preview | Variant | SVG | PNG |
 |---------|---------|-----|-----|
-| ![](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logomark/SVG/stronghold-logo-set_2025-29.svg) | Blue Gradient | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logomark/SVG/stronghold-logo-set_2025-29.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logomark/PNG/stronghold-logo-set_2025-29.png) |
-| | White | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logomark/SVG/stronghold-logo-set_2025-30.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logomark/PNG/stronghold-logo-set_2025-30.png) |
+| ![](Stronghold-Full-Logo-Set-2025/Logomark/SVG/stronghold-logo-set_2025-29.svg) | Blue Gradient | [SVG](Stronghold-Full-Logo-Set-2025/Logomark/SVG/stronghold-logo-set_2025-29.svg) | [PNG](Stronghold-Full-Logo-Set-2025/Logomark/PNG/stronghold-logo-set_2025-29.png) |
+| | White | [SVG](Stronghold-Full-Logo-Set-2025/Logomark/SVG/stronghold-logo-set_2025-30.svg) | [PNG](Stronghold-Full-Logo-Set-2025/Logomark/PNG/stronghold-logo-set_2025-30.png) |
 
 ### Logotype (Wordmark Only)
 
 | Preview | Variant | SVG | PNG |
 |---------|---------|-----|-----|
-| ![](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logotype/SVG/stronghold-logo-set_2025-26.svg) | Black | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logotype/SVG/stronghold-logo-set_2025-26.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logotype/PNG/stronghold-logo-set_2025-26.png) |
-| ![](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logotype/SVG/stronghold-logo-set_2025-27.svg) | Blue | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logotype/SVG/stronghold-logo-set_2025-27.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logotype/PNG/stronghold-logo-set_2025-27.png) |
-| | White | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logotype/SVG/stronghold-logo-set_2025-28.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logotype/PNG/stronghold-logo-set_2025-28.png) |
+| ![](Stronghold-Full-Logo-Set-2025/Logotype/SVG/stronghold-logo-set_2025-26.svg) | Black | [SVG](Stronghold-Full-Logo-Set-2025/Logotype/SVG/stronghold-logo-set_2025-26.svg) | [PNG](Stronghold-Full-Logo-Set-2025/Logotype/PNG/stronghold-logo-set_2025-26.png) |
+| ![](Stronghold-Full-Logo-Set-2025/Logotype/SVG/stronghold-logo-set_2025-27.svg) | Blue | [SVG](Stronghold-Full-Logo-Set-2025/Logotype/SVG/stronghold-logo-set_2025-27.svg) | [PNG](Stronghold-Full-Logo-Set-2025/Logotype/PNG/stronghold-logo-set_2025-27.png) |
+| | White | [SVG](Stronghold-Full-Logo-Set-2025/Logotype/SVG/stronghold-logo-set_2025-28.svg) | [PNG](Stronghold-Full-Logo-Set-2025/Logotype/PNG/stronghold-logo-set_2025-28.png) |
 
 ### SHx Logo
 
 | Preview | File | SVG | PNG |
 |---------|------|-----|-----|
-| ![](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-18.svg) | 18 | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-18.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/PNG/stronghold-logo-set_2025-18.png) |
-| ![](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-19.svg) | 19 | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-19.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/PNG/stronghold-logo-set_2025-19.png) |
-| ![](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-20.svg) | 20 | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-20.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/PNG/stronghold-logo-set_2025-20.png) |
-| ![](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-21.svg) | 21 | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-21.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/PNG/stronghold-logo-set_2025-21.png) |
-| ![](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-22.svg) | 22 | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-22.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/PNG/stronghold-logo-set_2025-22.png) |
-| ![](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-23.svg) | 23 | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-23.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/PNG/stronghold-logo-set_2025-23.png) |
-| ![](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-24.svg) | 24 | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-24.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/PNG/stronghold-logo-set_2025-24.png) |
-| ![](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-25.svg) | 25 | [SVG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/SVG/stronghold-logo-set_2025-25.svg) | [PNG](Full%20Logo%20Set%20_%20Stronghold%C2%AE/SHx%20Logo/PNG/stronghold-logo-set_2025-25.png) |
+| ![](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-18.svg) | 18 | [SVG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-18.svg) | [PNG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/PNG/stronghold-logo-set_2025-18.png) |
+| ![](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-19.svg) | 19 | [SVG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-19.svg) | [PNG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/PNG/stronghold-logo-set_2025-19.png) |
+| ![](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-20.svg) | 20 | [SVG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-20.svg) | [PNG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/PNG/stronghold-logo-set_2025-20.png) |
+| ![](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-21.svg) | 21 | [SVG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-21.svg) | [PNG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/PNG/stronghold-logo-set_2025-21.png) |
+| ![](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-22.svg) | 22 | [SVG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-22.svg) | [PNG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/PNG/stronghold-logo-set_2025-22.png) |
+| ![](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-23.svg) | 23 | [SVG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-23.svg) | [PNG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/PNG/stronghold-logo-set_2025-23.png) |
+| ![](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-24.svg) | 24 | [SVG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-24.svg) | [PNG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/PNG/stronghold-logo-set_2025-24.png) |
+| ![](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-25.svg) | 25 | [SVG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/SVG/stronghold-logo-set_2025-25.svg) | [PNG](Stronghold-Full-Logo-Set-2025/SHx%20Logo/PNG/stronghold-logo-set_2025-25.png) |
 
 ---
 
@@ -122,15 +122,15 @@ https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-F
 
 | Asset | URL |
 |-------|-----|
-| Logo Combo — Blue Mark + Black Type (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/Blue-Black/SVG/blue-logomark_black-type.svg) |
-| Logo Combo — Blue Mark + Blue Type (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/Blue-Blue/SVG/blue-logomark_blue-type.svg) |
-| Logo Combo — Blue Mark + White Type (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/Blue-White/SVG/blue-logomark_white-type.svg) |
-| Logo Combo — White Mark + White Type (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logo%20Combo/White-White/SVG/white-logomark_white-type.svg) |
-| Logomark — Blue Gradient (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logomark/SVG/stronghold-logo-set_2025-29.svg) |
-| Logomark — White (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logomark/SVG/stronghold-logo-set_2025-30.svg) |
-| Logotype — Black (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logotype/SVG/stronghold-logo-set_2025-26.svg) |
-| Logotype — Blue (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logotype/SVG/stronghold-logo-set_2025-27.svg) |
-| Logotype — White (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Full%20Logo%20Set%20_%20Stronghold%C2%AE/Logotype/SVG/stronghold-logo-set_2025-28.svg) |
+| Logo Combo — Blue Mark + Black Type (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold-Full-Logo-Set-2025/Logo%20Combo/Blue-Black/SVG/blue-logomark_black-type.svg) |
+| Logo Combo — Blue Mark + Blue Type (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold-Full-Logo-Set-2025/Logo%20Combo/Blue-Blue/SVG/blue-logomark_blue-type.svg) |
+| Logo Combo — Blue Mark + White Type (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold-Full-Logo-Set-2025/Logo%20Combo/Blue-White/SVG/blue-logomark_white-type.svg) |
+| Logo Combo — White Mark + White Type (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold-Full-Logo-Set-2025/Logo%20Combo/White-White/SVG/white-logomark_white-type.svg) |
+| Logomark — Blue Gradient (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold-Full-Logo-Set-2025/Logomark/SVG/stronghold-logo-set_2025-29.svg) |
+| Logomark — White (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold-Full-Logo-Set-2025/Logomark/SVG/stronghold-logo-set_2025-30.svg) |
+| Logotype — Black (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold-Full-Logo-Set-2025/Logotype/SVG/stronghold-logo-set_2025-26.svg) |
+| Logotype — Blue (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold-Full-Logo-Set-2025/Logotype/SVG/stronghold-logo-set_2025-27.svg) |
+| Logotype — White (SVG) | [Link](https://raw.githubusercontent.com/strongholdpay/Stronghold-Branding-Kit-PUBLIC-FOR-ALL/main/Stronghold-Full-Logo-Set-2025/Logotype/SVG/stronghold-logo-set_2025-28.svg) |
 
 ---
 
